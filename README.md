@@ -37,7 +37,7 @@ This project is licensed under the [MIT License](LICENSE).
 Special thanks to all contributors and supporters who have helped shape and improve the UI/UX designs for Unspoken Health.
 
 ## Contact
-For any inquiries or feedback related to Unspoken Health, please contact Subham Chatterjee at tanikchopra888@gmail.com .
+For any inquiries or feedback related to Unspoken Health, please contact Tanik Chopra at tanikchopra888@gmail.com .
 
 
 Feel free to further customize this template to fit your needs!
